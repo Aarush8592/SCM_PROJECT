@@ -137,7 +137,7 @@ if __name__ == "__main__":
                             speak("if complete the video please enter y")
                             s = input("enter y if completed watching the video:")
                             speak("please attempt these questions now.")
-                            li="https://www.codingninjas.com/"
+                            li="https://search.brave.com/search?q=google&source=desktop"
                             webbrowser.open(li)
                         
                     else:

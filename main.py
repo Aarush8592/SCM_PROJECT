@@ -123,7 +123,7 @@ if __name__ == "__main__":
                                      city="Y"
                                      if (city.upper()=='Y'):
                                         speak("please attempt these questions now")
-                                        l = "https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/"
+                                        l = "https://search.brave.com/search?q=google&source=desktop"
                                         webbrowser.open(l)
                                                                                
                     elif (jasoos=='1'):

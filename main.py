@@ -143,7 +143,7 @@ if __name__ == "__main__":
                     else:
                         speak("congratulations! you are very hard working")
                         speak("to polish your skills please attempt these questions")
-                        hr="https://www.hackerrank.com/domains/python"
+                        hr="https://www.chitkara.edu.in/"
                         webbrowser.open(hr)
             s=pth()
             s.intro()
